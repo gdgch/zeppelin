@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "GDG DevFest Switzerland 2016"
-eventDate: "26 & 27 November 2016"
-typeoutTextValues: '"", "Season", "Zurich", "Geneva", "Basel"'
+heroTitle: "GDG DevFest <typeout> 2016"
+eventDate: "November 2016"
+typeoutTextValues: '"", "Season", "Switzerland", "Zurich", "Geneva", "Basel"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
